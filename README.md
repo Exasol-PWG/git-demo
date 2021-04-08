@@ -2,8 +2,6 @@
 
 This is the first file in this repository
 
-## Ipsum Below
+## Website Contents
 
-Here is some text
-
-Here is some more text
+1. Index
